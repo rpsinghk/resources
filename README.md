@@ -7,6 +7,7 @@ Github References
 - [Secret Books](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Technical Atlas of Back-end Architect](https://github.com/xingshaocheng/architect-awesome)
 - [Awesome Java](https://github.com/akullpp/awesome-java)
+- [AWS ECS](https://github.com/nathanpeck/awesome-ecs)
 
 
 AWS SG
