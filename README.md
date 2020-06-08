@@ -26,3 +26,4 @@ Configurations
 ---
 
 - [HA Proxy](https://gist.github.com/haproxytechblog/dc5c3b5e2801d36b79e00f07b2309c14)
+- [Docker With DNS](https://medium.com/@thiago.nobayashi/running-a-dns-server-in-docker-61cc2003e899)
